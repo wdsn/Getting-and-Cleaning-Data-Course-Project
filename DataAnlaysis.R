@@ -1,4 +1,8 @@
-## Download data
+## Required libraries
+require(dplyr)
+
+
+e## Download data
 
 fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 destfile <- "./data/samsungData.zip"
